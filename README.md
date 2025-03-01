@@ -21,3 +21,8 @@ Model performance was assessed using key evaluation metrics, including accuracy,
 Some findings
 - ResNet-50 achieved high accuracy (97%) in binary classification but showed performance degradation in multi-class scenarios
 - Multi-class classification (5 classes) had the lowest accuracy (88%), mainly due to data imbalance and similar morphological characteristics among certain subtypes
+
+Link to dataset here https://www.kaggle.com/competitions/UBC-OCEAN
+Credits for dataset to:
+(1) Asadi-Aghbolaghi, M.; Farahani, H.; Zhang, A.; Akbari, A.; Kim, S.; Chow, A.; Dane, S.; Consortium, O. C.; Consortium, O.; Huntsman, D. G.; Gilks, C. B.; Ramus, S.; Köbel, M.; Karnezis, A. N.; Bashashati, A. Machine Learning-Driven Histotype Diagnosis of Ovarian Carcinoma: Insights from the OCEAN AI Challenge. medRxiv2024. https://doi.org/10.1101/2024.04.19.24306099.
+(2) Farahani, H.; Boschman, J.; Farnell, D.; Darbandsari, A.; Zhang, A.; Ahmadvand, P.; Jones, S. J.; Huntsman, D.; Köbel, M.; Gilks, C. B.; Singh, N.; Bashashati, A. Deep Learning-Based Histotype Diagnosis of Ovarian Carcinoma Whole-Slide Pathology Images. Modern Pathology 2022, 35 (12), 1983–1990.
